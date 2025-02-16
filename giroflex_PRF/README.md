@@ -35,4 +35,7 @@ Este código é simples e demonstra como utilizar entradas e saídas digitais na
 - Dois LEDs (vermelho e azul)
 - Dois botões
 
+## 
+- [Link Video Apresentação](https://drive.google.com/file/d/1vDu1En83TmUKz2tp5bQgeZM5oDbgLwgQ/view?usp=sharing)
+
 
